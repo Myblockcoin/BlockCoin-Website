@@ -1,0 +1,38 @@
+[
+  {
+    "brand": "TikTok",
+    "icon": "/images/brands/tiktok.svg",
+    "width": 20,
+    "height": 22
+  },
+  {
+    "brand": "Discord",
+    "icon": "/images/brands/discord.svg",
+    "width": 24,
+    "height": 18
+  },
+  {
+    "brand": "Instagram",
+    "icon": "/images/brands/instagram.svg",
+    "width": 20,
+    "height": 20
+  },
+  {
+    "brand": "Twitter",
+    "icon": "/images/brands/twitter.svg",
+    "width": 24,
+    "height": 20
+  },
+  {
+    "brand": "Telegram",
+    "icon": "/images/brands/telegram.svg",
+    "width": 21,
+    "height": 18
+  },
+  {
+    "brand": "Youtube",
+    "icon": "/images/brands/youtube.svg",
+    "width": 22,
+    "height": 15
+  }
+]

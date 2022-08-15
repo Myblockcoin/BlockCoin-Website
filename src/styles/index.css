@@ -1,0 +1,25 @@
+html {
+  overflow: hidden auto;
+  scroll-behavior: smooth;
+  font-weight: 400;
+  font-family: 'Optima', sans-serif;
+}
+.html--use-modal {
+  overflow-y: hidden;
+}
+
+body {
+  color: white;
+  background: black;
+  overflow-x: hidden;
+}
+
+.v-enter-active,
+.v-leave-active {
+  transition: opacity 0.5s ease;
+}
+
+.v-enter-from,
+.v-leave-to {
+  opacity: 0;
+}
