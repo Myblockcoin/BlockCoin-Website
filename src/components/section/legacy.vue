@@ -1,5 +1,5 @@
 <template>
-  <section class="relative sm:bg-[#040311] py-12 sm:py-20 md:py-30">
+  <section class="relative sm:bg-[#040311] px-4 py-12 sm:py-20 md:py-30">
     <img
       class="<sm:hidden absolute bottom-0 left-0"
       src="/images/glitter-left.png"
@@ -10,7 +10,7 @@
       src="/images/glitter-right.png"
       alt="right"
     >
-    <div class="relative container px-4 mx-auto">
+    <div class="relative container mx-auto">
       <div class="text-primary text-center text-2xl sm:text-4xl">
         "The Legacy Series"
       </div>

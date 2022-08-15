@@ -5,6 +5,7 @@
     <section-features />
     <section-vault />
     <section-legacy />
+    <section-vault-features />
   </main>
 </template>
 
