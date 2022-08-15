@@ -3,7 +3,7 @@
     <div class="flex flex-wrap flex-col lg:flex-row-reverse container mx-auto my-auto">
       <div class="w-full lg:w-2/5 flex flex-center">
         <img
-          src="images/hero-coins.png"
+          src="/images/hero-coins.png"
           width="558"
           height="538"
           alt="coins"
