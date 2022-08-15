@@ -19,6 +19,7 @@ declare module '@vue/runtime-core' {
     RouterView: typeof import('vue-router')['RouterView']
     SectionFeatures: typeof import('./src/components/section/features.vue')['default']
     SectionHero: typeof import('./src/components/section/hero.vue')['default']
+    SectionLegacy: typeof import('./src/components/section/legacy.vue')['default']
     SectionVault: typeof import('./src/components/section/vault.vue')['default']
     SectionWelcome: typeof import('./src/components/section/welcome.vue')['default']
   }

@@ -18,7 +18,7 @@ export default defineConfig({
   },
   shortcuts: {
     header: 'fixed top-0 left-0 right-0 flex px-4 z-100',
-    'header-button': 'font-bold border border-primary rounded-sm uppercase',
+    'header-button': 'font-bold border border-primary rounded-md uppercase',
     'bg-normal': 'bg-center bg-no-repeat bg-cover',
     'flex-center': 'items-center justify-center',
     'pos-center': 'absolute left-1/2 top-1/2 transform -translate-x-1/2 -translate-y-1/2',
@@ -33,6 +33,6 @@ export default defineConfig({
         }
       }
     },
-    'button-full': 'w-full sm:w-64 h-16 flex flex-center bg-primary text-black font-extrabold rounded-sm uppercase'
+    'button-full': 'w-full sm:w-64 h-16 flex flex-center bg-primary text-black font-extrabold rounded-md uppercase'
   }
 })

@@ -4,6 +4,7 @@
     <section-welcome />
     <section-features />
     <section-vault />
+    <section-legacy />
   </main>
 </template>
 
