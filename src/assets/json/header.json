@@ -1,18 +1,18 @@
 [
   {
     "title": "Home",
-    "to": { "name": "Home" }
+    "href": "/"
   },
   {
     "title": "The Vault",
-    "to": { "name": "Home" }
+    "href": "/"
   },
   {
     "title": "Roadmap",
-    "to": { "name": "Home" }
+    "href": "/#roadmap"
   },
   {
     "title": "About Us",
-    "to": { "name": "About" }
+    "href": "/about"
   }
 ]

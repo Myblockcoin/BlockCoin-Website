@@ -6,7 +6,7 @@
     <section-vault />
     <section-legacy />
     <section-vault-features />
-    <section-roadmap />
+    <section-roadmap id="roadmap" />
     <section-partners />
     <section-team />
     <section-favorites />

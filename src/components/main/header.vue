@@ -23,14 +23,14 @@
       >
 
       <div class="<md:hidden flex items-center text-primary uppercase">
-        <router-link
+        <a
           v-for="link in headerLinks"
           :key="link.title"
-          :to="link.to"
+          :href="link.href"
           class="font-bold mr-4 lg:mr-12"
         >
           {{ link.title }}
-        </router-link>
+        </a>
         <button class="header-button px-5 py-3">
           Mint now
         </button>
@@ -47,7 +47,7 @@
       <a
         v-for="link in headerLinks"
         :key="link.title"
-        :to="link.to"
+        :href="link.href"
         class="mb-10"
       >
         {{ link.title }}
