@@ -8,6 +8,7 @@
     <section-vault-features />
     <section-roadmap />
     <section-partners />
+    <section-team />
   </main>
 </template>
 

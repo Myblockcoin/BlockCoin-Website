@@ -13,7 +13,8 @@ export default defineConfig({
       backgroundImage: {
         hero: 'url(/images/hero-bg.jpg)',
         'hero-mobile': 'url(/images/hero-mobile.jpg)',
-        welcome: 'url(/images/welcome.jpg)'
+        welcome: 'url(/images/welcome.jpg)',
+        about: 'url(/images/about-bg.jpg)'
       }
     }
   },

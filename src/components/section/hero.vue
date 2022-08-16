@@ -9,7 +9,7 @@
           alt="coins"
         >
       </div>
-      <div class="w-full lg:w-3/5">
+      <div class="w-full <lg:text-center lg:w-3/5">
         <div class="text-primary text-4xl lg:text-7xl <sm:text-center">
           The Decentralization Of Traditional Rare Gold And Silver Coin Collecting
         </div>
@@ -17,7 +17,7 @@
           Bridging The Gap With Blockchain Technology,
           Our NFTs Offer Fractionalized Ownership Of Real Pre-1933 Gold And Silver Coins
         </div>
-        <button class="button-full mt-10 mx-auto">
+        <button class="button-full mt-10 <lg:mx-auto">
           Mint Now
         </button>
       </div>

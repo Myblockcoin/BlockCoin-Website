@@ -1,8 +1,8 @@
 <template>
   <section class="lg:bg-[#020B10] lg:bg-welcome bg-contain bg-no-repeat bg-right-bottom px-4 py-20 lg:pt-40 pb-20">
     <div class="container mx-auto">
-      <div class="lg:w-1/2">
-        <div class="text-primary text-2xl sm:text-4xl <sm:text-center">
+      <div class="lg:w-1/2 <lg:text-center">
+        <div class="text-primary text-2xl sm:text-4xl">
           Welcome To Block Coin
         </div>
         <p class="mt-12">

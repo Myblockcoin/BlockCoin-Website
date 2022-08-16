@@ -25,6 +25,7 @@ declare module '@vue/runtime-core' {
     SectionLegacy: typeof import('./src/components/section/legacy.vue')['default']
     SectionPartners: typeof import('./src/components/section/partners.vue')['default']
     SectionRoadmap: typeof import('./src/components/section/roadmap.vue')['default']
+    SectionTeam: typeof import('./src/components/section/team.vue')['default']
     SectionVault: typeof import('./src/components/section/vault.vue')['default']
     SectionVaultFeatures: typeof import('./src/components/section/vault-features.vue')['default']
     SectionWelcome: typeof import('./src/components/section/welcome.vue')['default']
