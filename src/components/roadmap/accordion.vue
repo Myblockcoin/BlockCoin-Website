@@ -5,9 +5,9 @@
       :key="quarter"
     >
       <div
-        class="flex items-center justify-between h-12 text-lg bg-neutral-900 cursor-pointer px-3 mb-2"
+        class="flex items-center justify-between h-12 text-lg bg-neutral-900 cursor-pointer duration-300 px-3 mb-2"
         :class="{ 'text-primary': qIdx === activeQuarter }"
-        @click="activeQuarter = qIdx"
+        @click="toggleOpen(qIdx)"
       >
         {{ quarter }}
         <i
@@ -52,5 +52,13 @@
 <script setup lang="ts">
 import { ref } from 'vue'
 import roadmap from '@/assets/json/roadmap.json'
+
 const activeQuarter = ref(0)
+const toggleOpen = (idx: number) => {
+  if (idx === activeQuarter.value) {
+    activeQuarter.value = -1
+  } else {
+    activeQuarter.value = idx
+  }
+}
 </script>
