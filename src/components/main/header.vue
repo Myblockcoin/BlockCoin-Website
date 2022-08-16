@@ -31,9 +31,12 @@
         >
           {{ link.title }}
         </a>
-        <button class="header-button px-5 py-3">
+        <a
+          class="header-button px-5 py-3"
+          href="/mint"
+        >
           Mint now
-        </button>
+        </a>
       </div>
     </div>
   </header>
@@ -52,9 +55,12 @@
       >
         {{ link.title }}
       </a>
-      <button class="header-button px-5 py-3">
+      <a
+        class="header-button px-5 py-3"
+        href="/mint"
+      >
         Mint now
-      </button>
+      </a>
     </div>
   </transition>
 </template>
