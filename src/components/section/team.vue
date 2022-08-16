@@ -8,6 +8,7 @@
         class="mt-16"
         :slides-per-view="slideCount"
         centered-slides
+        :initial-slide="1"
       >
         <swiper-slide
           v-for="member in team"
@@ -29,7 +30,12 @@
               {{ member.role }}
             </div>
             <div class="mt-6">
-              {{ member.shortDescription }}
+              <p
+                v-for="(paragraph, pIdx) in member.shortDescription.split('\n')"
+                :key="pIdx"
+              >
+                {{ paragraph }}
+              </p>
             </div>
           </div>
         </swiper-slide>
