@@ -1,5 +1,5 @@
 <template>
-  <section class="px-4 pt-50 pb-12 md:pb-16 lg:pb-24">
+  <section class="px-4 pt-32 md:pt-50 pb-12 md:pb-16 lg:pb-24">
     <div class="max-w-5xl text-center mx-auto">
       <img
         class="mx-auto"

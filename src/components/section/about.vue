@@ -1,5 +1,5 @@
 <template>
-  <section class="bg-about bg-no-repeat bg-contain bg-top px-4 pt-50 pb-12 md:pb-16 lg:pb-24">
+  <section class="bg-about bg-no-repeat bg-contain bg-top px-4 pt-32 md:pt-50 pb-12 md:pb-16 lg:pb-24">
     <div class="max-w-4xl mx-auto">
       <div class="text-primary text-4xl text-center">
         About Us
