@@ -6,6 +6,7 @@
     <section-vault />
     <section-legacy />
     <section-vault-features />
+    <section-roadmap />
   </main>
 </template>
 

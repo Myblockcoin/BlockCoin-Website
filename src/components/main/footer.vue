@@ -1,5 +1,5 @@
 <template>
-  <footer class="container flex flex-col px-4 py-8 md:py-12 mx-auto">
+  <footer class="max-w-5xl flex flex-col px-4 py-8 md:py-12 mx-auto">
     <img
       class="mx-auto"
       src="/images/logo-full.png"

@@ -1,0 +1,310 @@
+{
+  "tasks": [
+    {
+      "month": "January 2022",
+      "todo": [
+        {
+          "task": "Legal Discovery",
+          "complete": true
+        },
+        {
+          "task": "Creative Discovery",
+          "complete": true
+        },
+        {
+          "task": "Industry Feasibility",
+          "complete": true
+        },
+        {
+          "task": "Business Plan Development",
+          "complete": true
+        }
+      ]
+    },
+    {
+      "month": "February 2022",
+      "todo": [
+        {
+          "task": "Web Site Development",
+          "complete": true
+        },
+        {
+          "task": "ENS Obtained",
+          "complete": true
+        },
+        {
+          "task": "Depository Research",
+          "complete": true
+        },
+        {
+          "task": "NFT Concepts",
+          "complete": true
+        },
+        {
+          "task": "Identify Rare Coins to Fractioniliz",
+          "complete": true
+        }
+      ]
+    },
+    {
+      "month": "March 2022",
+      "todo": [
+        {
+          "task": "Web Site Development",
+          "complete": true
+        },
+        {
+          "task": "Begin NFT Designs",
+          "complete": true
+        },
+        {
+          "task": "Attend NFT Event In Miami",
+          "complete": true
+        }
+      ]
+    },
+    {
+      "month": "April 2022",
+      "todo": [
+        {
+          "task": "Official Project Launch",
+          "complete": true
+        },
+        {
+          "task": "Set Up Agreement With Depository",
+          "complete": true
+        }
+      ]
+    },
+    {
+      "month": "May 2022",
+      "todo": [
+        {
+          "task": "Partnership with Fueled On Bacon",
+          "complete": true
+        },
+        {
+          "task": "Smart Contract Discussion",
+          "complete": true
+        }
+      ]
+    },
+    {
+      "month": "June 2022",
+      "todo": [
+        {
+          "task": "Enhance Technology Capabilities",
+          "complete": true
+        },
+        {
+          "task": "Website Frame And Concept Complete",
+          "complete": true
+        }
+      ]
+    },
+    {
+      "month": "July 2022",
+      "todo": [
+        {
+          "task": "Launch Twitter, Facebook and Discord",
+          "complete": true
+        },
+        {
+          "task": "Finalize Website Design",
+          "complete": true
+        },
+        {
+          "task": "Finalize NFT Design",
+          "complete": true
+        },
+        {
+          "task": "Smart Contract Development",
+          "complete": true
+        }
+      ]
+    },
+    {
+      "month": "August 2022",
+      "todo": [
+        {
+          "task": "Monthly Zoom Educational Actives To Begin",
+          "complete": false
+        },
+        {
+          "task": "Finalize Smart Contracts",
+          "complete": false
+        },
+        {
+          "task": "\"Legacy Series\" NFT Release (3 Coins)",
+          "complete": false
+        },
+        {
+          "task": "Commercial Partnerships",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "month": "September 2022",
+      "todo": [
+        {
+          "task": "Launch AMAs And Virtual Events",
+          "complete": false
+        },
+        {
+          "task": "Launch Official Page in Secondary Markets",
+          "complete": false
+        },
+        {
+          "task": "Direct Marketing To Coin Collectors",
+          "complete": false
+        },
+        {
+          "task": "Community Relations (Discord)",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "month": "October 2022",
+      "todo": [
+        {
+          "task": "Metaverse Discovery",
+          "complete": false
+        },
+        {
+          "task": "Partnership With Social Media Influencers",
+          "complete": false
+        },
+        {
+          "task": "Hire Additional Developers and Marketing Experts",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "month": "November 2022",
+      "todo": [
+        {
+          "task": "Influencer Marketing Campaigns",
+          "complete": false
+        },
+        {
+          "task": "Second Series NFT Release (3 Coins)",
+          "complete": false
+        },
+        {
+          "task": "Marketing NFTs At Collectible Coin Tradeshow",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "month": "December 2022",
+      "todo": [
+        {
+          "task": "Charity Events",
+          "complete": false
+        },
+        {
+          "task": "List BlockCoin On Coingecko",
+          "complete": false
+        },
+        {
+          "task": "Launch Community Merchant Store Worldwide",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "month": "January 2023",
+      "todo": [
+        {
+          "task": "Start NFT Marketplace Platform Development",
+          "complete": false
+        },
+        {
+          "task": "Community Campaigns And NFT Giveaway",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "month": "February 2023",
+      "todo": [
+        {
+          "task": "BlockCoin Token Released For Additional Community Benefits",
+          "complete": false
+        },
+        {
+          "task": "Free Airdrops To All NFT Holders",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "month": "March 2023",
+      "todo": [
+        {
+          "task": "BlockCoin Will Break Into The Metaverse",
+          "complete": false
+        },
+        {
+          "task": "Gamefi Project Development With NFT Rewareds",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "month": "April 2023",
+      "todo": [
+        {
+          "task": "NFT Marketplace Platform Launch",
+          "complete": false
+        },
+        {
+          "task": "Tiered Membership Benefits For Token Holders",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "month": "May 2023",
+      "todo": [
+        {
+          "task": "NFT Borrowing & Lending (i.e. Receive A 75% LTV Loan With Your NFT As Collateral)",
+          "complete": false
+        },
+        {
+          "task": "Create DAO With Coin Voting Rights Of The NFT Holders (i.e. When To Sell The Rare Coins, Make Suggestions etc)",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "month": "June 2023",
+      "todo": [
+        {
+          "task": "Launch RoadMap 2.0",
+          "complete": false
+        },
+        {
+          "task": "BlockCoin NFT DeFi Staking System",
+          "complete": false
+        },
+        {
+          "task": "Block Coin NFT Marketplace Release",
+          "complete": false
+        }
+      ]
+    }
+  ],
+  "quarters": [
+    "Q-1 2022",
+    "Q-2 2022",
+    "Q-3 2022",
+    "Q-4 2022",
+    "Q-1 2023",
+    "Q-2 2023"
+  ]
+}

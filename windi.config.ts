@@ -7,7 +7,8 @@ export default defineConfig({
   theme: {
     extend: {
       colors: {
-        primary: '#FFC000'
+        primary: '#FFC000',
+        success: '#03FF86'
       },
       backgroundImage: {
         hero: 'url(/images/hero-bg.jpg)',
