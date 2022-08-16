@@ -9,6 +9,7 @@
     <section-roadmap />
     <section-partners />
     <section-team />
+    <section-favorites />
   </main>
 </template>
 
