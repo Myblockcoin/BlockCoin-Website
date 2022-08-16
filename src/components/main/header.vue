@@ -23,13 +23,14 @@
       >
 
       <div class="<md:hidden flex items-center text-primary uppercase">
-        <a
+        <router-link
           v-for="link in headerLinks"
           :key="link.title"
+          :to="link.to"
           class="font-bold mr-4 lg:mr-12"
         >
           {{ link.title }}
-        </a>
+        </router-link>
         <button class="header-button px-5 py-3">
           Mint now
         </button>
@@ -40,33 +41,20 @@
   <transition>
     <div
       v-if="showMenu"
-      class="md:hidden flex flex-center flex-col fixed top-0 left-0 right-0 bottom-0 bg-black/50 text-primary font-bold z-110"
+      class="md:hidden flex flex-center flex-col fixed top-0 left-0 right-0 bottom-0 bg-black/80 text-primary font-bold z-110"
       @click="toggleMenu"
     >
       <a
-        class="mb-12"
-        href="#story"
+        v-for="link in headerLinks"
+        :key="link.title"
+        :to="link.to"
+        class="mb-10"
       >
-        Story
+        {{ link.title }}
       </a>
-      <a class="mb-12">
-        Mint
-      </a>
-      <a
-        class="mb-12"
-        href="#stake"
-      >
-        Stake
-      </a>
-      <a
-        class="mb-12"
-        href="#gaming"
-      >
-        Gaming
-      </a>
-      <a href="#whitepaper">
-        Whitepaper
-      </a>
+      <button class="header-button px-5 py-3">
+        Mint now
+      </button>
     </div>
   </transition>
 </template>

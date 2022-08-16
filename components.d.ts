@@ -20,6 +20,7 @@ declare module '@vue/runtime-core' {
     RoadmapTabs: typeof import('./src/components/roadmap/tabs.vue')['default']
     RouterLink: typeof import('vue-router')['RouterLink']
     RouterView: typeof import('vue-router')['RouterView']
+    SectionAbout: typeof import('./src/components/section/about.vue')['default']
     SectionFavorites: typeof import('./src/components/section/favorites.vue')['default']
     SectionFeatures: typeof import('./src/components/section/features.vue')['default']
     SectionHero: typeof import('./src/components/section/hero.vue')['default']

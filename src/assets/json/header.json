@@ -1,14 +1,18 @@
 [
   {
-    "title": "Home"
+    "title": "Home",
+    "to": { "name": "Home" }
   },
   {
-    "title": "The Vault"
+    "title": "The Vault",
+    "to": { "name": "Home" }
   },
   {
-    "title": "Roadmap"
+    "title": "Roadmap",
+    "to": { "name": "Home" }
   },
   {
-    "title": "About Us"
+    "title": "About Us",
+    "to": { "name": "About" }
   }
 ]
