@@ -7,6 +7,7 @@
     <section-legacy />
     <section-vault-features />
     <section-roadmap />
+    <section-partners />
   </main>
 </template>
 

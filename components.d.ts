@@ -23,6 +23,7 @@ declare module '@vue/runtime-core' {
     SectionFeatures: typeof import('./src/components/section/features.vue')['default']
     SectionHero: typeof import('./src/components/section/hero.vue')['default']
     SectionLegacy: typeof import('./src/components/section/legacy.vue')['default']
+    SectionPartners: typeof import('./src/components/section/partners.vue')['default']
     SectionRoadmap: typeof import('./src/components/section/roadmap.vue')['default']
     SectionVault: typeof import('./src/components/section/vault.vue')['default']
     SectionVaultFeatures: typeof import('./src/components/section/vault-features.vue')['default']
