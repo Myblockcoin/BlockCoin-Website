@@ -34,9 +34,12 @@
           >
         </swiper-slide>
         <template #container-end>
-          <button class="button-full mt-10 mx-auto">
+          <a
+            class="button-full mt-10 mx-auto"
+            href="/mint/1"
+          >
             Mint Now
-          </button>
+          </a>
         </template>
       </swiper>
     </div>
