@@ -46,11 +46,13 @@
         <p class="mt-10">
           The 1904-P Liberty Head Double Eagle MS-65 (PCGS) is a spectacle to behold.
           Both sides are highly lustrous with a gleaming rose gold surface.
-          With a total mintage of 6,256,699 coins, a tiny fraction of only 5,837 MS65 1904 double eagle coins certified by PCGS exist in circulation today.
+          With a total mintage of 6,256,699 coins, a tiny fraction
+          of only 5,837 MS65 1904 double eagle coins certified by PCGS exist in circulation today.
           By the early 20th century, these gold coins no longer circulated in the United States except for limited use on the West Coast.
           This Philadelphia Mint was mostly used in International Commerce, generally in the form of shipments to England and France.
-          Hundreds of thousands of these coins returned to the United States post World War II. The 1904 is now by far the most plentiful issue date,
-          but is very rare to obtain in this unique grade of MS65. PCGS lists the price guide at $6000 https://www.pcgs.com/cert/02274051
+          Hundreds of thousands of these coins returned to the United States post World War II.
+          The 1904 is now by far the most plentiful issue date, but is very rare to obtain in this unique grade of MS65.
+          PCGS lists the price guide at $6000 https://www.pcgs.com/cert/02274051
         </p>
       </div>
     </div>
