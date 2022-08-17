@@ -95,13 +95,22 @@ const chartOptions = {
     legend: {
       display: false
     }
+  },
+  scales: {
+    y: {
+      grid: {
+        color: 'gray'
+      },
+      suggestedMin: 0,
+      suggestedMax: 6000
+    }
   }
 }
 
 const chartData = {
-  labels: data.map(([date]) => format(new Date(date), 'dd MMM')),
+  labels: data.map(([date]) => format(new Date(date), 'MMM')),
   datasets: [{
-    data: data.map(([date, value]) => value as number),
+    data: data.map(([_, value]) => value as number),
     borderColor: '#FFC000'
   }]
 }
