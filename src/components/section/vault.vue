@@ -3,7 +3,7 @@
     <div class="text-primary text-2xl sm:text-4xl text-center">
       The Vault
     </div>
-    <div class="container flex flex-col lg:flex-row md:flex-center mx-auto">
+    <div class="container flex flex-col lg:flex-row lg:items-center mx-auto">
       <div class="lg:w-4/7">
         <img
           class="max-w-4/5 mx-auto"

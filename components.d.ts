@@ -5,6 +5,7 @@ import '@vue/runtime-core'
 
 declare module '@vue/runtime-core' {
   export interface GlobalComponents {
+    CommonAppreciationChart: typeof import('./src/components/common/appreciation-chart.vue')['default']
     CommonLinks: typeof import('./src/components/common/links.vue')['default']
     DappBoard: typeof import('./src/components/dapp/board.vue')['default']
     DappConnectButton: typeof import('./src/components/dapp/connect-button.vue')['default']

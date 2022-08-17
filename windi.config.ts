@@ -36,6 +36,7 @@ export default defineConfig({
       }
     },
     'button-full': 'w-full sm:w-64 h-16 flex flex-center bg-primary text-black font-extrabold rounded-md uppercase',
+    'button-outline': 'w-full sm:w-64 h-16 flex flex-center border border-white font-extrabold rounded-md uppercase',
     'legacy-feature-card': { borderRadius: '20px 20px 20px 0', minHeight: '80px' }
   }
 })
