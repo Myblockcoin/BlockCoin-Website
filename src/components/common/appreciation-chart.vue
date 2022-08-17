@@ -7,10 +7,10 @@
 
 <script setup lang="ts">
 import { LineChart } from 'vue-chart-3'
-import { Chart, registerables } from 'chart.js'
+import * as Chart from 'chart.js'
 import { format } from 'date-fns'
 
-Chart.register(...registerables)
+Chart.Chart.register(...Chart.registerables)
 
 const data = [
   ['2017-01-01', 1700],
