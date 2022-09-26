@@ -12,7 +12,7 @@
     >
     <div class="relative container mx-auto">
       <div class="text-primary text-center text-2xl sm:text-4xl">
-        "The Legacy Series"
+        The Legacy Series
       </div>
 
       <swiper
@@ -36,7 +36,7 @@
         <template #container-end>
           <a
             class="button-full mt-10 mx-auto"
-            href="/token"
+            href="/mint"
           >
             Mint Now
           </a>

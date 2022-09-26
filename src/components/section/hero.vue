@@ -15,11 +15,14 @@
         </div>
         <div class="lg:text-2xl mt-10">
           Bridging The Gap With Blockchain Technology,
-          Our NFTs Offer Fractionalized Ownership Of Real Pre-1933 Gold And Silver Coins
+          Our NFTs Offer Fractionalized Ownership Of Real US Pre-1933 Gold And Silver Coins
         </div>
-        <button class="button-full mt-10 <lg:mx-auto">
+        <a
+          class="button-full mt-10 <lg:mx-auto"
+          href="/mint"
+        >
           Mint Now
-        </button>
+        </a>
       </div>
     </div>
     <common-links class="mt-8" />

@@ -2,7 +2,7 @@
   <section class="bg-about bg-normal px-4 py-12 md:py-16 lg:py-24">
     <div class="container mx-auto">
       <div class="text-primary text-2xl sm:text-4xl text-center">
-        The Team
+        The BlockCoin Team
       </div>
       <swiper
         class="mt-16"

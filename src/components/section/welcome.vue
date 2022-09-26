@@ -3,7 +3,7 @@
     <div class="container mx-auto">
       <div class="lg:w-1/2 <lg:text-center">
         <div class="text-primary text-2xl sm:text-4xl">
-          Welcome To Block Coin
+          Welcome To BlockCoin
         </div>
         <p class="mt-12">
           BlockCoin aims to reshape the United States rare coin market
@@ -17,7 +17,7 @@
           <span class="<lg:hidden">
             Before digital minting, each physical, collectible coin is professionally graded
             by PCGS (Professional Coin Grading Service) or NGC (Numismatic Guaranty Corp),
-            the top grading services. The physical, collectible coin is then put into custody with Dillon Gage,
+            the top grading services. The physical coin is then put into custody with Dillon Gage,
             a trusted third party that has served major financial institutions and banks for over 40 years.
             The coins remain in custody with the insured depository, securely stored in a vault, and audited weekly.
             The NFTs can be traded and sold in the open secondary markets,

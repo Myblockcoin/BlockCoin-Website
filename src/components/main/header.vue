@@ -4,11 +4,11 @@
     :class="{ 'bg-black/50 backdrop-filter backdrop-blur-md': y }"
   >
     <div
-      class="container flex items-center text-white mx-auto <md:pr-11"
+      class="container flex items-center text-white mx-auto <lg:pr-11"
       :class="{ 'text-neutral-600': y }"
     >
       <button
-        class="md:hidden w-11 h-11 text-primary mr-auto z-120"
+        class="lg:hidden w-11 h-11 text-primary mr-auto z-120"
         @click="toggleMenu"
       >
         <i class="text-2xl mdi mdi-menu" />
@@ -22,12 +22,12 @@
         alt="logo"
       >
 
-      <div class="<md:hidden flex items-center text-primary uppercase">
+      <div class="<lg:hidden flex items-center text-primary uppercase">
         <a
           v-for="link in headerLinks"
           :key="link.title"
           :href="link.href"
-          class="font-bold mr-4 lg:mr-12"
+          class="font-bold mr-6 xl:mr-12"
         >
           {{ link.title }}
         </a>
@@ -44,7 +44,7 @@
   <transition>
     <div
       v-if="showMenu"
-      class="md:hidden flex flex-center flex-col fixed top-0 left-0 right-0 bottom-0 bg-black/80 text-primary font-bold z-110"
+      class="lg:hidden flex flex-center flex-col fixed top-0 left-0 right-0 bottom-0 bg-black/80 text-primary font-bold z-110"
       @click="toggleMenu"
     >
       <a

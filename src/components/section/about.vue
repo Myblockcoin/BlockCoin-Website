@@ -15,7 +15,7 @@
         </div>
         <p class="mt-4">
           Our vision is to leverage blockchain and NFTs to radically change the way people buy, collect, experience,
-          and ultimately enjoy rare gold and silver coins in the global market.
+          and ultimately enjoy rare gold and silver coins in the global market.<br><br>
           Our mission is to acquire the most traded and liquid collectible coins
           from the United States and place them in the hands of our global community.
         </p>

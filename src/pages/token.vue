@@ -28,15 +28,10 @@
               1,026.97 USD
             </span>
           </div>
-          <div class="flex flex-col md:flex-row <lg:flex-center mt-10">
-            <button class="button-full uppercase md:mr-4">
-              <i class="text-2xl mdi mdi-wallet-outline mr-2" />
-              Mint Now
-            </button>
-            <button class="button-outline <md:mt-4 uppercase">
-              Make an offer
-            </button>
-          </div>
+          <button class="button-full uppercase md:mr-4 mt-10">
+            <i class="text-2xl mdi mdi-wallet-outline" />
+            Mint Now
+          </button>
         </div>
       </div>
       <div class="mt-12 md:mt-16 lg:mt-24">
@@ -47,12 +42,11 @@
           The 1904-P Liberty Head Double Eagle MS-65 (PCGS) is a spectacle to behold.
           Both sides are highly lustrous with a gleaming rose gold surface.
           With a total mintage of 6,256,699 coins, a tiny fraction
-          of only 5,837 MS65 1904 double eagle coins certified by PCGS exist in circulation today.
+          of only 5,837 MS65 1904 Double Eagle coins certified by PCGS exist in circulation today.
           By the early 20th century, these gold coins no longer circulated in the United States except for limited use on the West Coast.
           This Philadelphia Mint was mostly used in International Commerce, generally in the form of shipments to England and France.
           Hundreds of thousands of these coins returned to the United States post World War II.
           The 1904 is now by far the most plentiful issue date, but is very rare to obtain in this unique grade of MS65.
-          PCGS lists the price guide at $6000 https://www.pcgs.com/cert/02274051
         </p>
       </div>
     </div>
@@ -101,24 +95,7 @@
   </section>
   <section class="px-4 py-12">
     <div class="max-w-5xl mx-auto">
-      <div class="text-2xl text-primary">
-        Levels:
-      </div>
-      <div class="mt-5">
-        <div
-          v-for="{ name, value } in levels"
-          :key="name"
-          class="<sm:w-full bg-[#1C1A1A] border border-white/20 rounded-lg font-bold inline-flex items-center p-4 sm:mr-4 mb-5"
-        >
-          <div class="w-40">
-            {{ name }} Level:
-          </div>
-          <div>
-            {{ value }} of 10
-          </div>
-        </div>
-      </div>
-      <div class="lg:w-3/5 mt-16">
+      <div class="lg:w-3/5">
         <div class="text-3xl">
           5 Year Appreciation Chart:
         </div>
@@ -154,9 +131,7 @@ const stats = [
   { name: 'Copper:', value: '10%' },
   { name: 'Diameter:', value: '34.0 millimeters' },
   { name: 'Weight:', value: '33.40 grams' },
-  { name: 'Oz of gold', value: '0.9675' },
-  { name: '10 Year Historic Appreciation Level:', value: '7.5% yearly' },
-  { name: 'NFT Coin Ownership Percentage:', value: 'x%' }
+  { name: 'Oz of gold', value: '0.9675' }
 ]
 
 const levels = [

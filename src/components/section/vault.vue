@@ -20,8 +20,8 @@
         Our collectible coins have undergone the highest level of grading
         and have been hand-selected by our group of numismatic experts
         to give the NFT holders the best possible future market appreciation.
-        All NFT owners can feel very safe knowing the physical coins behind the NFTs
-        Are Registered, Certified, And Secured By Dillon Gage's International Depository Services Group.
+        All NFT owners can feel very safe knowing the physical coins behind the NFTs are Registered, Certified,
+        and Secured by Dillon Gage's International Depository Services Group.
         Below is a list of our coins that have been fractionalized by means of digitally minted NFTs.
       </p>
     </div>
