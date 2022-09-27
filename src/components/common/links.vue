@@ -4,6 +4,7 @@
       v-for="(link, idx) in links"
       :key="link.brand"
       :class="{ 'ml-6 md:ml-20': idx }"
+      :href="link.href"
     >
       <img
         :src="link.icon"

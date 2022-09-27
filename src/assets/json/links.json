@@ -1,38 +1,44 @@
 [
   {
-    "brand": "TikTok",
-    "icon": "/images/brands/tiktok.svg",
-    "width": 20,
-    "height": 22
-  },
-  {
-    "brand": "Discord",
-    "icon": "/images/brands/discord.svg",
-    "width": 24,
-    "height": 18
-  },
-  {
-    "brand": "Instagram",
-    "icon": "/images/brands/instagram.svg",
-    "width": 20,
-    "height": 20
-  },
-  {
     "brand": "Twitter",
     "icon": "/images/brands/twitter.svg",
+    "href": "https://twitter.com/myblockcoin",
     "width": 24,
-    "height": 20
-  },
-  {
-    "brand": "Telegram",
-    "icon": "/images/brands/telegram.svg",
-    "width": 21,
-    "height": 18
+    "height": 15
   },
   {
     "brand": "Youtube",
     "icon": "/images/brands/youtube.svg",
+    "href": "https://www.youtube.com/channel/UCfJV-ByzXsj9MgxKtr_PtxQ",
+    "width": 21,
+    "height": 18
+  },
+  {
+    "brand": "Discord",
+    "icon": "/images/brands/discord.svg",
+    "href": "https://discord.gg/zRFXWR4J",
+    "width": 24,
+    "height": 18
+  },
+  {
+    "brand": "TikTok",
+    "icon": "/images/brands/tiktok.svg",
+    "href": "https://www.tiktok.com/@myblockcoin",
+    "width": 20,
+    "height": 22
+  },
+  {
+    "brand": "Facebook",
+    "icon": "/images/brands/facebook.png",
+    "href": "https://www.facebook.com/MyBlockCoin.com",
     "width": 22,
-    "height": 15
+    "height": 22
+  },
+  {
+    "brand": "LinkedIn",
+    "icon": "/images/brands/linkedin.png",
+    "href": "https://www.linkedin.com/in/blockcoin/",
+    "width": 22,
+    "height": 23
   }
 ]
